@@ -5,12 +5,8 @@ ls2 = [2,1,3]
 s= ['a','b','c']
 s1 = [1,2,3]
 strlist = "rotor"
-# lll = list(strlist)
-# r = False
-# for i in range(len(strlist)):
-#     if lll[i] == lll[-len(lll)]:
-#         r = True
-# print(r)
+
+
 
 print(largest_num(ls))
 print(lowest_num(ls))
